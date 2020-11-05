@@ -6,6 +6,16 @@
 * [Firefox geckodriver](https://github.com/mozilla/geckodriver/releases)
 
 
+## Run script
+
+Input parameters (`ra`,`dec`) are hard-coded (for prototype/test).
+Expected output are (CSV) files (`<catalog-name>.csv`).
+
+```
+$ python download_asi_data.py
+```
+
+
 ## List of blazars
 
 * [Blazar Monitoring List][BML], from the MOJAVE project: `blazarlist.txt`

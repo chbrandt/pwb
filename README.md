@@ -2,6 +2,7 @@
 
 ## Script dependencies
 
+* Tested with Python 3.6
 * [Selenium](https://selenium-python.readthedocs.io/): `pip install selenium`
 * [Firefox geckodriver](https://github.com/mozilla/geckodriver/releases)
 
